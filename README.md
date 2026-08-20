@@ -17,3 +17,9 @@ Git → Code + data.dvc
 DVC → Actual Dataset
 
 data.dvc → Dataset version ka pointer/metadata
+
+
+
+git log --oneline
+git checkout <hash> - git checkout master
+dvc pull
